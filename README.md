@@ -1,6 +1,9 @@
 # PasswordGenerator
 
+## Usage
 This password generator will provide the user with a password suggestion based on the criteria chosen by the user via a series of prompts.
+
+Link to deployed application: https://marissarrwilson.github.io/PasswordGenerator/
 
 ## Method
 I made this password generator using HTML, CSS and JavaScript files. I did not make changes to the HTML and CSS files, and added code to the JavaScript file.
@@ -12,10 +15,20 @@ I made this password generator using HTML, CSS and JavaScript files. I did not m
 ## Credits
 Individual work by me, Marissa Wilson, with the help of...
 * Instructors Fil and Daniel
-* Study group on Slack
+* Boolean Bros
 * Useful Links:
     - https://stackoverflow.com/questions/1497481/javascript-password-generator
-    
+
+# Screenshots
+
+## Homepage
+![Homepage](images/Homepage.png)
+
+## First Prompt
+![First Prompt](images/Prompt-1.png)
+
+## Result
+![Generated Password](images/PasswordResult.png)
 
 ## License
 Copyright (c) [2020] [Marissa Wilson]
